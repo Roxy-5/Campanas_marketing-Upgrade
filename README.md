@@ -7,8 +7,13 @@ Análisis de datos de la tabla.
 ### 🌍 Cómo usar
 
 1. Clona este repositorio.
-2. Instala las dependencias necesarias.
-3. Ejecuta el proyecto.
+2. Instala las dependencias necesarias:
+   - seaborn
+   - matplotlib
+   - pandas
+   - numpy
+   - scipy
+4. Ejecuta el proyecto.
 
 ### 🪐 Autor
 
@@ -138,3 +143,4 @@ Rocío Ramírez
 - **Diciembre:** Optimizar la eficiencia de las campañas para aumentar el ROI, capitalizando el alto beneficio neto de este mes.
 - **Cuartil 1:** Priorizar el lanzamiento de campañas clave durante este trimestre de alto rendimiento.
 - **Cuartil 4:** Evaluar y ajustar estrategias de campaña para mejorar la eficiencia, enfocados en aumentar la tasa de conversión y los beneficios netos.
+
