@@ -1,5 +1,5 @@
 ![](https://github.com/Roxy-5/Informe1/blob/main/images.jpg)
-### 🛸 Informe1
+### 🛸 Análisis de campañas de Marketing
 
 Análisis de datos de la tabla.
 
@@ -142,3 +142,4 @@ Rocío Ramírez
 - **Diciembre:** Optimizar la eficiencia de las campañas para aumentar el ROI, capitalizando el alto beneficio neto de este mes.
 - **Cuartil 1:** Priorizar el lanzamiento de campañas clave durante este trimestre de alto rendimiento.
 - **Cuartil 4:** Evaluar y ajustar estrategias de campaña para mejorar la eficiencia, enfocados en aumentar la tasa de conversión y los beneficios netos.
+
