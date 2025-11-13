@@ -3,7 +3,6 @@
 Análisis exploratorio completo de un dataset de campañas de marketing, incluyendo limpieza de datos y visualizaciones.
 
 ### 🚀 Cómo usar
-
 1. Clona este repositorio.
 2. Instala las dependencias necesarias:
    - seaborn
@@ -56,7 +55,6 @@ Rocío Ramírez
   - Preparación de nuevas variables y categorías para análisis.
 
 ### 🎯 Respuestas a las preguntas del cliente
-
 1. **¿Qué canal de marketing se utiliza con mayor frecuencia?:** Promotion. ![image](https://github.com/user-attachments/assets/43b5ffa4-2267-42de-83ec-2e192614ef7a)
 
 2. **¿Qué canal genera mejor ROI?:** Referral. ![image](https://github.com/user-attachments/assets/6bd65272-9d6d-462e-804f-7efad3ec3ff5)
@@ -95,7 +93,6 @@ Rocío Ramírez
       - 2025: Desempeño inferior, posiblemente influenciado por datos incompletos o parciales. ![image](https://github.com/user-attachments/assets/ada752ce-c160-4b62-8113-ddc34f3c024c) ![image](https://github.com/user-attachments/assets/54e21bb0-a776-4227-870b-04660d2083cb) ![image](https://github.com/user-attachments/assets/7a8ad30b-4c9e-47b5-9e62-8738718e4739) ![image](https://github.com/user-attachments/assets/1ba3fd79-d9e5-4a01-ac87-5ad8359857ad)
  
 ### 🌋 Hallazgos
-
 1. **Análisis mensual:**
 - Los meses con el ROI más alto son enero (32.82) y noviembre (32.25).
 - El mes con el ROI más bajo es diciembre (16.76).
@@ -136,7 +133,6 @@ Rocío Ramírez
   - 2025 tiene un rendimiento significativamente más bajo, pero esto podría deberse a un número limitado de datos.
 
 ### 🧭 Recomendaciones estratégicas
-
 - **Enero y noviembre:** Maximizar la inversión en campañas durante estos meses para aprovechar el ROI y las tasas de conversión superiores.
 - **Diciembre:** Optimizar la eficiencia de las campañas para aumentar el ROI, capitalizando el alto beneficio neto de este mes.
 - **Cuartil 1:** Priorizar el lanzamiento de campañas clave durante este trimestre de alto rendimiento.
