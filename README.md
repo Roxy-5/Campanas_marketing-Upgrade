@@ -1,8 +1,8 @@
 ![](https://github.com/Roxy-5/Informe1/blob/main/images.jpg)
-### 🛸 Análisis de campañas de Marketing
+### 📊 Análisis de campañas de Marketing
 Análisis exploratorio completo de un dataset de campañas de marketing, incluyendo limpieza de datos y visualizaciones.
 
-### 🌍 Cómo usar
+### 🚀 Cómo usar
 
 1. Clona este repositorio.
 2. Instala las dependencias necesarias:
@@ -17,7 +17,7 @@ Análisis exploratorio completo de un dataset de campañas de marketing, incluye
 
 Rocío Ramírez
 
-### 🌌 Proceso llevado a cabo para la limpieza y corrección
+### 📈  Proceso llevado a cabo para la limpieza y corrección
 - Se carga el archivo CSV con `pd.read_csv()`, usando `on_bad_lines='skip'` para ignorar filas problemáticas.
 - Se visualizan las primeras y últimas filas (`head()`, `tail()`), el número de filas y columnas (`shape`), los tipos de datos (`info()`, `dtypes`), y se revisan duplicados y valores nulos (`duplicated().sum()`, `isna().sum()`).
 - Se convierte la columna `'date'` a tipo `datetime` con `errors='coerce'` para manejar fechas inválidas.
@@ -55,7 +55,7 @@ Rocío Ramírez
   - Detección y revisión de outliers.
   - Preparación de nuevas variables y categorías para análisis.
 
-### 🚀 Respuestas a las preguntas del cliente
+### 🎯 Respuestas a las preguntas del cliente
 
 1. **¿Qué canal de marketing se utiliza con mayor frecuencia?:** Promotion. ![image](https://github.com/user-attachments/assets/43b5ffa4-2267-42de-83ec-2e192614ef7a)
 
@@ -141,5 +141,3 @@ Rocío Ramírez
 - **Diciembre:** Optimizar la eficiencia de las campañas para aumentar el ROI, capitalizando el alto beneficio neto de este mes.
 - **Cuartil 1:** Priorizar el lanzamiento de campañas clave durante este trimestre de alto rendimiento.
 - **Cuartil 4:** Evaluar y ajustar estrategias de campaña para mejorar la eficiencia, enfocados en aumentar la tasa de conversión y los beneficios netos.
-
-
